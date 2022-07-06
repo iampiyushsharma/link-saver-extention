@@ -3,5 +3,9 @@ This is a Chrome Extention to save links from the internet while browsing and th
 
 ![Test Image 1](icon.png)
 
+some Photos
+
+![Test Image 1](img/p1.png)
+![Test Image 1](img/p2.png)
 
 
